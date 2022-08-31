@@ -87,9 +87,16 @@ nav ul li a {
     font-size: 1.8em;
 }
 
-.selected {
-    background: #9E579D;
+nav ul li a:hover {
+    background: #39445f;
 }
+nav ul li a:focus {
+    background:  #9E579D ;
+}
+
+/* .selected {
+    background: #9E579D;
+} */
 
 .open-nav {
     visibility: unset;

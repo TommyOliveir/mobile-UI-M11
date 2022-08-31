@@ -28,3 +28,4 @@ var onresize = function() {
    }, 2000)
 }
 window.addEventListener("resize", onresize);
+
